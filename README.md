@@ -1,7 +1,7 @@
-# Olá! Sou Wiklyn Craveiro 👋
+# Hello! I'm Wiklyn Craveiro 👋
 
-Sou estudante de Ciência da Computação. Esse perfil atualmente possui somente
-repositórios de estudos.
+I'm a Computer Science student. Currently, this profile only has study-related
+repositories.
 
 <div
   >
@@ -30,13 +30,7 @@ repositórios de estudos.
     alt="django"
     height="30"
     width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img
-    align="center"
-    alt="djangorestframework"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
   <img
     align="center"
     alt="csharp"
@@ -48,7 +42,7 @@ repositórios de estudos.
     alt="dotnet"
     height="30"
     width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img
     align="center"
     alt="javascript"
@@ -73,6 +67,12 @@ repositórios de estudos.
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img
+    align="center"
+    alt="sql"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   <img
     align="center"
     alt="sql"
