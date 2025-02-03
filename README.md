@@ -1,7 +1,7 @@
-# Hello! I'm Wiklyn Craveiro 👋
+# Olá! Me chamo Wiklyn 👋
 
-I'm a Computer Science student. Currently, this profile only has study-related
-repositories.
+Sou estudante de Ciência da Computação.
+Recentemente, meus estudos têm sido mais focados em C# e C.
 
 <div
   >
