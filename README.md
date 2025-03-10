@@ -1,7 +1,7 @@
 # Olá! Me chamo Wiklyn 👋
 
 Sou estudante de Ciência da Computação.
-Recentemente, meus estudos têm sido mais focados em C# e C.
+Recentemente, meus estudos têm sido mais focados em C#.NET, Angular e C.
 
 <div
   >
