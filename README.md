@@ -21,16 +21,16 @@ Recentemente, meus estudos têm sido mais focados em C#.NET, Angular e C.
   style="display: inline_block">
   <img
     align="center"
-    alt="python"
+    alt="typescript"
     height="30"
     width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
   <img
     align="center"
-    alt="django"
+    alt="angular"
     height="30"
     width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg">
   <img
     align="center"
     alt="csharp"
@@ -45,12 +45,6 @@ Recentemente, meus estudos têm sido mais focados em C#.NET, Angular e C.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img
     align="center"
-    alt="javascript"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img
-    align="center"
     alt="html5"
     height="30"
     width="40"
@@ -63,19 +57,49 @@ Recentemente, meus estudos têm sido mais focados em C#.NET, Angular e C.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img
     align="center"
+    alt="microsoftsqlserver"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img
+    align="center"
+    alt="python"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img
+    align="center"
+    alt="c"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
+  <img
+    align="center"
+    alt="django"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
+  <img
+    align="center"
+    alt="javascript"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img
+    align="center"
     alt="sql"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img
     align="center"
-    alt="sql"
+    alt="postgresql"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   <img
     align="center"
-    alt="sql"
+    alt="postman"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
